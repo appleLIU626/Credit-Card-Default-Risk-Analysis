@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 ![Dashboard Preview](images/credit_risk_full_dashboard.png)
-[🔗 Click here to view the Interactive Tableau Dashboard]([https://public.tableau.com/app/profile/shihao.liu2065/viz/CreditCardDelinquencyPortfolioRiskDashboard/CreditCardDelinquencyPortfolioRiskDashboard#1])
+[🔗 Click here to view the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/shihao.liu2065/viz/CreditCardDelinquencyPortfolioRiskDashboard/CreditCardDelinquencyPortfolioRiskDashboard#1)
 This project focuses on identifying high-risk credit card holders and analyzing default patterns using a dataset of 30,000 clients. By leveraging **SQL** for data engineering and **Tableau** for business intelligence, I transformed raw transaction data into an actionable risk management dashboard.
 
 ## 🛠️ Tech Stack
