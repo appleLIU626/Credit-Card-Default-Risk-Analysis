@@ -1,0 +1,13 @@
+Education_Level,Marital_Status,Total_Clients,Default_Count,Default_Rate_Percentage
+University,Others,168,45,26.79
+"High School",Married,2861,754,26.35
+University,Married,6842,1666,24.35
+"Graduate School",Others,54,13,24.07
+"High School",Single,1909,452,23.68
+University,Single,7020,1619,23.06
+"High School",Others,147,31,21.09
+"Graduate School",Married,3722,769,20.66
+"Graduate School",Single,6809,1254,18.42
+Others,Married,234,17,7.26
+Others,Single,226,16,7.08
+Others,Others,8,0,0
